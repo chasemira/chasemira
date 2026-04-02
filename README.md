@@ -4,6 +4,8 @@ Hi there! 🙋🏻‍♀️ I’m Jasleen Kaur, a third-year Computing Science s
 
 I’m proficient in Python, HTML/CSS, React.js, C++/C, TypeScript, JavaScript, SQL, Git, and MATLAB, and I enjoy applying these skills to real-world challenges.
 
+Currently working as a Software Developer with the SFU Robot Soccer Club, working with a C++ tech stack to build core system components, contribute to AI and control algorithms, and support real‑time robotic decision‑making.
+
 As the Director of Marketing for DSSS, I help promote events and boost engagement. Outside of tech, I’m into astronomy, reading, gaming, and watching movies. Always learning and excited to connect! ✨
 
 
