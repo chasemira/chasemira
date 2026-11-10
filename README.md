@@ -1,12 +1,17 @@
 # About Me
 
-Hi there! 🙋🏻‍♀️ I’m Jasleen Kaur, a third-year Computing Science student at Simon Fraser University (SFU) with a passion for AI, full-stack development, machine learning, and cybersecurity. I love taking initiative and efficiently bringing ideas to life, whether it’s leading frontend development for SFU Hub or building real-world solutions like LearnVerse to tackle UN challenges like quality education.
+Hi, I’m Jasleen Kaur 🙋🏻‍♀️ a third-year Computing Science student at SFU interested in software development, machine learning and AI.
 
-I’m proficient in Python, HTML/CSS, React.js, C++/C, TypeScript, JavaScript, SQL, Git, and MATLAB, and I enjoy applying these skills to real-world challenges.
+Right now
+- Junior Software Tester co-op at Gatekeeper Systems, testing DVR/NVR firmware on real hardware
+- Head Developer on path planning at SFU Robot Soccer, designing a C++ trajectory planner for six robots
+- Undergraduate researcher at SFU, second author on a NAACL submission on how LLMs and humans argue across 8 languages
 
-Currently working as a Software Developer with the SFU Robot Soccer Club, working with a C++ tech stack to build core system components, contribute to AI and control algorithms, and support real‑time robotic decision‑making.
+Projects: SenseMap (Raspberry Pi study-space map, StormHacks 2026), LearnVerse (multilingual skill-trading app, 2nd of 12 teams), MedVerse (AI-human healthcare prototype)
 
-As the Director of Marketing for DSSS, I help promote events and boost engagement. Outside of tech, I’m into astronomy, reading, gaming, and watching movies. Always learning and excited to connect! ✨
+Tools: Python, C/C++, JavaScript, React, Node.js, Firebase, SQL, Git, Linux
+
+Outside of tech: astronomy, reading, gaming and movies. Always learning and happy to connect! ✨
 
 
 <h3 align="left">Languages and Tools:</h3>
